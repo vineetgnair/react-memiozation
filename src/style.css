@@ -1,0 +1,13 @@
+h1,
+p {
+  font-family: Lato;
+}
+.brand-name {
+  padding: 0 5px;
+}
+.brand-name:first-of-type {
+  padding-left: 0;
+}
+.row {
+  margin: 10px 0;
+}
